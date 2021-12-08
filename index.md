@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## 如何搭建自己的HK VPS
+
+购买vps看自己矿机数量和能力，最低配置即可，矿机流量很小，基本上1K一台的流量计算即可，比如你买1M的带宽，理论上可以带动1千台矿机，当时也最好给自己留点余量。
+我推荐有十来台矿机的可以买下面的第二个1核2G/2M带宽，矿机数量超过100台建议购买第三个。Vps一定要购买HK的服务器，以防国外矿池全部进墙。
+
 
 You can use the [editor on GitHub](https://github.com/ws02874137/Ucloud/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
