@@ -1,10 +1,15 @@
 ## 如何搭建自己的HK VPS
 
 如果觉得麻烦也可以直接使用现成搭建好的中转
-- ethermine池-HK中转-抽水0.35%
+- ethermine池-SSL-HK中转-抽水0.35%
 ```markdown
-hk.mio.cool:12020
+ethermine.hk.mio.cool:5555
 ```
+- ethermine池-SSL-HK中转-抽水0.35%
+```markdown
+2miners.hk.mio.cool:12020
+```
+- 必须开启SSL 你懂的
 
 
 ### 购买vps
