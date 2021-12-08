@@ -1,18 +1,5 @@
 ## 如何搭建自己的HK VPS
 
-如果觉得麻烦也可以直接使用现成搭建好的中转
-- ethermine池-SSL-HK中转-抽水0.35%
-```markdown
-ethermine.hk.mio.cool:5555
-```
-- ethermine池-SSL-HK中转-抽水0.35%
-```markdown
-2miners.hk.mio.cool:12020
-```
-- 必须开启SSL 你懂的
-
-
-### 购买vps
 购买vps看自己矿机数量和能力，最低配置即可，矿机流量很小，基本上1K一台的流量计算即可，比如你买1M的带宽，理论上可以带动1千台矿机，当时也最好给自己留点余量。
 我推荐有十来台矿机的可以买下面的第二个1核2G/2M带宽，矿机数量超过100台建议购买第三个。Vps一定要购买HK的服务器，以防国外矿池全部进墙，这样买了国内vps也不能访问墙外矿池。
 
@@ -178,3 +165,15 @@ https://www.ethermine.org/
 然后输入自己的钱包地址，查看收益状态。
 - 注意!
 - ethermine需要15分钟同步数据。
+
+
+### 如果觉得麻烦也可以直接使用现成搭建好的中转
+- ethermine池-SSL-HK中转-抽水0.35%
+```markdown
+ethermine.hk.mio.cool:5555
+```
+- ethermine池-SSL-HK中转-抽水0.35%
+```markdown
+2miners.hk.mio.cool:12020
+```
+- 必须开启SSL 你懂的
