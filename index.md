@@ -4,8 +4,14 @@
 我推荐有十来台矿机的可以买下面的第二个1核2G/2M带宽，矿机数量超过100台建议购买第三个。Vps一定要购买HK的服务器，以防国外矿池全部进墙，这样买了国内vps也不能访问墙外矿池。
 
 下面仅以Ucloud的vps为例子，其他vps请自行参考相关网站设置
-通过以下链接可以注册：[https://passport.ucloud.cn/?invitation_code=C1x00211FEE83A6](https://passport.ucloud.cn/?invitation_code=C1x00211FEE83A6)
-打开ucloud网站：[https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1x00211FEE83A6E#xianggang](https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1x00211FEE83A6E#xianggang)
+通过以下链接可以注册：[点我注册](https://passport.ucloud.cn/?invitation_code=C1x00211FEE83A6)
+```markdown
+https://passport.ucloud.cn/?invitation_code=C1x00211FEE83A6
+```
+打开[ucloud网站](https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1x00211FEE83A6E#xianggang)
+```markdown
+https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1x00211FEE83A6E#xianggang
+```
 
 ![Image](http://s-gz-416-dmgf-dl.oss.dogecdn.com/Ucloud/image001.png)
 
