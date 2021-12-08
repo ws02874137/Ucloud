@@ -66,6 +66,9 @@ https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1x00211FEE83A6E#
 - 至此，防火墙就建立好了，然后开始安装MinerProxy
 
 ### 安装MinerProxy
+```markdown
+https://github.com/MinerProxy/MinerProxy/releases/download/1.0.32/MP32_2021_12_06.zip
+```
 通过远程桌面拷贝MinerProxy到vps服务器：
 ![Image](http://s-gz-416-dmgf-dl.oss.dogecdn.com/Ucloud/image015.png)
 
