@@ -7,8 +7,11 @@
 通过以下链接可以注册：[https://passport.ucloud.cn/?invitation_code=C1x00211FEE83A6](https://passport.ucloud.cn/?invitation_code=C1x00211FEE83A6)
 打开ucloud网站：[https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1x00211FEE83A6E#xianggang](https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1x00211FEE83A6E#xianggang)
 
+![Image](http://s-gz-416-dmgf-dl.oss.dogecdn.com/Ucloud/image001.png)
+![Link](http://s-gz-416-dmgf-dl.oss.dogecdn.com/Ucloud/image001.png)
 
-You can use the [editor on GitHub](https://github.com/ws02874137/Ucloud/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
