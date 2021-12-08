@@ -8,9 +8,6 @@
 打开ucloud网站：[https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1x00211FEE83A6E#xianggang](https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1x00211FEE83A6E#xianggang)
 
 ![Image](http://s-gz-416-dmgf-dl.oss.dogecdn.com/Ucloud/image001.png)
-![Link](http://s-gz-416-dmgf-dl.oss.dogecdn.com/Ucloud/image001.png)
-
-
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
