@@ -23,17 +23,56 @@ https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1x00211FEE83A6E#
 
 ### 设置防火墙
 购买完成之后，会提示进入控制台，你也可以登录之后自己打开控制台，控制台左边有两个图标，第一图标是你的主机，第二个图标是网络安全配置。
+
 ![Image](http://s-gz-416-dmgf-dl.oss.dogecdn.com/Ucloud/image003.png)
 - 这样主机就算安装成功了，下面进行远程桌面连接，通过mstsc微软自带桌面连接，如下：
+
 ![Image](http://s-gz-416-dmgf-dl.oss.dogecdn.com/Ucloud/image004.png)
-- 弹出这个对话框：
+
 ![Image](http://s-gz-416-dmgf-dl.oss.dogecdn.com/Ucloud/image005.png)
+
 - 在这个对话框输入你的公网IP地址，如何查找公网IP地址（后面所有使用的IP地址都是这个），请到UC的网站这里查找：
+
 ![Image](http://s-gz-416-dmgf-dl.oss.dogecdn.com/Ucloud/image006.png)
+
 - 输入公网IP地址后，弹出输入用户密码和口令对话框，用户输入账号administrator，密码是你在上面购买时候设置的密码，成功之后就远程登录到你购买的vps了。
+
 ![Image](http://s-gz-416-dmgf-dl.oss.dogecdn.com/Ucloud/image007.png)
+
 - 然后就出现了远程桌面，远程桌面可以把本地文件拷贝，在远程桌面上直接粘贴。
+
 ![Image](http://s-gz-416-dmgf-dl.oss.dogecdn.com/Ucloud/image008.png)
+
+- 缺省状态下，vps只开放了远程端口和80，443这些，我们还需要开放MinerProxy用到的端口，进入网页控制台，点击左边第二个图标，选择外网防火墙，点击创建防火墙，如下：
+
+![Image](http://s-gz-416-dmgf-dl.oss.dogecdn.com/Ucloud/image009.png)
+
+![Image](http://s-gz-416-dmgf-dl.oss.dogecdn.com/Ucloud/image010.png)
+
+- 点击+号进行开放端口添加，注意，RDP-3389一定要打开
+
+![Image](http://s-gz-416-dmgf-dl.oss.dogecdn.com/Ucloud/image011.png)
+
+- 上面这个ICMP开放，你就可以在ping同这台服务器了，开放快捷规则-RDP，这个是远程桌面连接端口，务必选择。然后把MinerProxy需要的端口放进去，最后点击确认：
+
+![Image](http://s-gz-416-dmgf-dl.oss.dogecdn.com/Ucloud/image012.png)
+
+- 这样，自己的防火墙规则创建好了，然后需要把这个规则给你的主机，点击左侧第一个图标
+
+![Image](http://s-gz-416-dmgf-dl.oss.dogecdn.com/Ucloud/image013.png)
+
+![Image](http://s-gz-416-dmgf-dl.oss.dogecdn.com/Ucloud/image014.png)
+
+- 至此，防火墙就建立好了，然后开始安装MinerProxy
+- 
+- 
+- 
+- 
+- 
+
+
+
+
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
